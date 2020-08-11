@@ -3,4 +3,4 @@ Small project to get started with Drone.io.
 
 Adjust drone.yaml with your specific configurations like docker repo..
 
-Test 2
+Test 3
